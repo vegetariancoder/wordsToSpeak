@@ -30,7 +30,7 @@
 
 ♦ The star schema is usually **used** by **Business Insights (BI) Tools**
 
-![Alt text](/Users/sahilnagpal/Desktop/wordsToSpeak/images/starSchema.png?raw=true "Title")
+![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/starSchema.png?raw=true "Title")
 
 
 
@@ -49,7 +49,7 @@
 
 ♦ Easier to **add a dimension in a schema**.
 
-![Alt text](images/starSchema.png?raw=true "Title")
+![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/snowflakeSchema.png?raw=true "Title")
 
 
 | **Star Schema**                                                     | **Snowflake Schema**                                                       |
