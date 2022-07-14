@@ -30,6 +30,8 @@
 
 ♦ The star schema is usually **used** by **Business Insights (BI) Tools**
 
+![Alt text](/Users/sahilnagpal/Desktop/wordsToSpeak/images/starSchema.png?raw=true "Title")
+
 
 
 ### ☀️ Snowflake Schema ###
@@ -46,6 +48,8 @@
 ♦ Due to **multiple tables** , the **query performance is reduced**.
 
 ♦ Easier to **add a dimension in a schema**.
+
+![Alt text](/Users/sahilnagpal/Desktop/wordsToSpeak/images/snowflakeSchema.png?raw=true "Title")
 
 
 | **Star Schema**                                                     | **Snowflake Schema**                                                       |
