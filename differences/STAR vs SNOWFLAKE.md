@@ -49,7 +49,7 @@
 
 ♦ Easier to **add a dimension in a schema**.
 
-![Alt text](/Users/sahilnagpal/Desktop/wordsToSpeak/images/snowflakeSchema.png?raw=true "Title")
+![Alt text](images/starSchema.png?raw=true "Title")
 
 
 | **Star Schema**                                                     | **Snowflake Schema**                                                       |
