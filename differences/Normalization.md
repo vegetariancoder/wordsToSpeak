@@ -18,7 +18,7 @@ Here is the list of Normal Forms :
 ![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/hierarchy.png?raw=true "Title")
 
 
-** ☀️ Rules for 1 NF**
+**☀️ Rules for 1 NF**
 
 - Each table cells should contain only single value.
 - Each record needs to be unique.
