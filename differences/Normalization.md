@@ -24,3 +24,26 @@ Here is the list of Normal Forms :
 - Each record needs to be unique.
 
 ![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/1NF.png?raw=true "Title")
+
+
+**☀️ Rules for 2 NF**
+
+- Table must be in 1 NF
+- All non-key attributes are fully functional on the primary key.
+
+![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/1NF.png?raw=true "Title")
+
+![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/2NF.png?raw=true "Title")
+
+### ☀️What are transitive functional dependencies?
+
+Transitive functional dependency occurs **when changing a non-key column is affecting the other non-key column**
+
+![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/TFDPNDCY.png?raw=true "Title")
+
+**☀️ Rules for 3 NF**
+
+- Table must be in 2 NF
+- There must be no transitive functional dependency.
+
+![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/3NF.png?raw=true "Title")
