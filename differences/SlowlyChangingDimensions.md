@@ -11,7 +11,8 @@
 5. Type - 4 : Combination of type-1 and type-2
 6. Type - 6 : Hybrid Type.
 
-<span style="color:Red">Note: In the real world only Type-1,2 and 3 are used </span>.
+
+    Note: In the real world only Type-1,2 and 3 are used
 
 #### 📚 Slowly Changing Dimension Type-0 📚
 
@@ -19,5 +20,15 @@
 - The type-0 is a fixed dimension.
 - The data in the type-0 never changes.
 - The data get loaded in the beginning of the project, and it never changes.
+
+
+#### 📚 Slowly Changing Dimension Type-1 📚
+
+- In SCD Type-1, we simply overwrite the historical data with the new data.
+- In SCD Type-1, we do not store any historical information (which means the historical data is simply overwritten by new data.)
+
+    
+    Advantage : It is easy to maintain and takes less space.
+    Disadvantage : Historical data is removed.
 
 
