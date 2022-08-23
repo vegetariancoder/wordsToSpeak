@@ -34,7 +34,7 @@
 
 
 
-### ☀️ Snowflake Schema ###
+### ❄️️ Snowflake Schema ❄️ ###
 
 ♦ The snowflake schema is **logical representation of tables in multidimensional database**.
 
@@ -43,7 +43,7 @@
 ♦ The snowflake schema is the **extended version of star schema** where there is the addition of sub-dimensional tables (more connected dimensional tables)
 
 
-### ☀️ Characterstics of Snowflake Schema ###
+### ❄️ Characterstics of Snowflake Schema ❄️ ###
 
 ♦ Due to **multiple tables** , the **query performance is reduced**.
 
