@@ -21,7 +21,7 @@
 - The **data in the type-0 never changes**.
 - The data get loaded in the **beginning of the project, and it never changes**.
 
-![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/SCD-0.png?raw=true "Title")
+![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/SCD-0.png?raw=true "SCD-0")
 
 #### 📚 Slowly Changing Dimension Type-1 📚
 
@@ -67,6 +67,16 @@
 - In this case **we only care about the current and previous data value**, no more historical version of data is captured or stored.
 
 ![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/SCD-3.png?raw=true "SCD-3")
+
+
+
+#### 📚 Slowly Changing Dimension Type-4 📚
+
+- In the SCD Type-4, this is also **called as fastest growing dimension**, 
+
+- In this type, we basically store all the historical information in a new dimension or a table. We track all the changes and store all of them in a new dimension/ table.
+
+![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/SCD-4.png?raw=true "SCD-4")
 
 
 
