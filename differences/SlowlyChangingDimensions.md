@@ -1,4 +1,4 @@
-- ## ☁️ Slowly Changing Dimensions ☁️
+## ☁️ Slowly Changing Dimensions ☁️
 
 - Slowly changing dimension is defined as the **dimensions that changes slowly over the time rather than changing on regular basis**.
 
@@ -66,7 +66,7 @@
 
 - In this case **we only care about the current and previous data value**, no more historical version of data is captured or stored.
 
-![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/SCD-3.png?raw=true "Title")
+![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/SCD-3.png?raw=true "SCD-3")
 
 
 
