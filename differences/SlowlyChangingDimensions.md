@@ -48,9 +48,27 @@
 - The new data is stored in several ways which are as follows:
 
   1. **Versioning** : In SCD-Type 2 Versioning, the latest data is stored is allotted with a latest sequence number. The latest data is allotted with new number. The latest number represents the current row and the oldest sequence number represents the previous row. (Here we simply add a new column named version and assign a latest value to it)
+     
+      ![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/SCD-2_Versioning_Sequencing.png?raw=true "Title")
 
   2. **Flagging** : In SCD-Type 2 Flagging, the latest data is flagged with a True boolean value which is '1'. The old data is represented by '0'. (Here we simply add a new column named flag and assign a value to it)
+     
+      ![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/SCD-2_Flagging.png?raw=true "Title")
 
   3. **Effective Date** : In SCD-Type 2 Effective date, we simply add two new columns start date and end date, where start date represents the effectiveness of value and end date reprsents the end of effectiveness of that value.
+     
+      ![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/SCD-2_EffectiveDate.png?raw=true "Title")
+
+
+#### 📚 Slowly Changing Dimension Type-3 📚
+
+- In the SCD Type-3, we basically **store the current value and the previous value of the data**. In this case, **we create two separate columns name current value and previous value**.
+
+- In this case **we only care about the current and previous data value**, no more historical version of data is captured or stored.
+
+![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/images/SCD-3.png?raw=true "Title")
+
+
+
 
 
