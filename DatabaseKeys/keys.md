@@ -70,4 +70,10 @@ In the given table <code>Stud ID</code>, <code>Roll No</code>, and <code>email</
 
 For example <code>OrderNo</code> it is not unique but when combined with <code>ProductId</code> then become useful.
 
+#### Composite Key
+
+- COMPOSITE KEY is a combination of two or more columns that uniquely identify rows in a table.
+- The combination of columns guarantees uniqueness, though individually uniqueness is not guaranteed. Hence, they are combined to uniquely identify records in a table.
+
+Note : The difference between compound and the composite key is that any part of the compound key can be a foreign key, but the composite key may or maybe not a part of the foreign key.
 
