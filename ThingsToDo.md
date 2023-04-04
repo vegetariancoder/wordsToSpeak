@@ -4,13 +4,13 @@
 - [ ] AWS Lambda - In Progress
 - [ ] AWS Glue
 - [ ] AWS Athena
-- [ ] Datawarehouse Concepts
+- [ ] Data-warehouse Concepts
 - [ ] Snowflake
 - [ ] Databricks Questions
 
 
 ### Theory
-- [ ] All Database Keys
+- [X] All Database Keys
 - [ ] SCD Revise
 - [ ] OLAP vs OLTP
 - [ ] Cloud terminologies (Scalability, Reliability, Availability)
@@ -19,3 +19,6 @@
 ### Practical Project
 - [ ] SCD Implementation
 - [ ] AWS Project
+  - [ ] Use of Glue
+  - [ ] Use of Athena
+  - [ ] Use of S3
