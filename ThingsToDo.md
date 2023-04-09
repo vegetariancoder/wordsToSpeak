@@ -1,12 +1,12 @@
 # Technology and Terminologies
 
 ### Technology (Udemy Courses)
-- [ ] AWS Lambda - In Progress
-- [ ] AWS Glue
+- [X] AWS Lambda
+- [ ] AWS Glue - In Progress 👨‍💻
 - [ ] AWS Athena
 - [ ] Data-warehouse Concepts
 - [ ] Snowflake
-- [ ] Databricks Questions
+- [ ] Databricks Questions In Progress 👨‍💻
 
 
 ### Theory
