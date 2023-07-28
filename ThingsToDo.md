@@ -2,11 +2,11 @@
 
 ### Technology (Udemy Courses)
 - [X] AWS Lambda
-- [ ] AWS Glue - In Progress 👨‍💻
+- [ ] AWS Glue
 - [ ] AWS Athena
 - [ ] Data-warehouse Concepts
-- [ ] Snowflake
-- [ ] Databricks Questions In Progress 👨‍💻
+- [ ] Snowflake In Progress 👨‍💻
+- [ ] Databricks Questions
 
 
 ### Theory
@@ -17,7 +17,7 @@
 
 
 ### Practical Project
-- [ ] SCD Implementation
+- [X] SCD Implementation
 - [ ] AWS Project
   - [ ] Use of Glue
   - [ ] Use of Athena
