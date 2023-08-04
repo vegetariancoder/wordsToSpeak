@@ -9,6 +9,7 @@ create table google_gmail_emails
     day       int  null
 );
 
+show tables ;
 -- show tables
 show tables ;
 
@@ -17,6 +18,8 @@ select * from CREDITCARD;
 select * from google_gmail_emails;
 select count(*) from CREDITCARD;
 truncate table CREDITCARD;
+
+select PAYMENT_TYPE_NAME,count(*) as cnt from FINAL_DATA group by PAYMENT_TYPE_NAME;
 
 
 -- copy data from stage
