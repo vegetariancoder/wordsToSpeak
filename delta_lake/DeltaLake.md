@@ -24,7 +24,7 @@ Delta table are stored on delta lake as one or more parquet file formats. Along 
 ```mermaid
 flowchart TB
     A[Transaction Log] --> B[Operations Performed] -->E[Ex. Write, Update of file]
-    A[Transaction Log] --> C[Predicates Userd] -->F[Ex. Conditions and filters used in operation]
+    A[Transaction Log] --> C[Predicates Used] -->F[Ex. Conditions and filters used in operation]
     A[Transaction Log] --> D[Data Files Affected] -->G[Ex. Files updated during operations.]
 ```
 
