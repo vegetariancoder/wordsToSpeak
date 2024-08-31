@@ -1,4 +1,4 @@
-# Technology and Terminologies
+# ⭐ Technology and Terminologies ⭐
 
 ### Technology (Udemy Courses)
 - [X] AWS Lambda
@@ -24,13 +24,13 @@
   - [X] Use of S3
 
 ### Udemy
-- [ ] Mastering Data Modeling Fundamentals - https://synechron.udemy.com/course/mastering-data-modeling-fundamentals/
-- [ ] Data Management Masterclass - The Complete Course - https://synechron.udemy.com/course/data-management-masterclass-the-complete-course/ 
-- [X] EssentialSQL: Data Modeling & Relational Data Architecture - https://synechron.udemy.com/course/relational-database-design-sql/
-- [ ] Databricks - Master Azure Databricks for Data Engineers - https://synechron.udemy.com/course/master-azure-databricks-for-data-engineers/ (P-1)
-- [ ] Microsoft Azure: Cloud Architecture Case Studies - https://synechron.udemy.com/course/microsoft-azure-cloud-architecture-case-studies/
-- [ ] Data Warehouse Fundamentals for Beginners - https://synechron.udemy.com/course/data-warehouse-fundamentals-for-beginners/
-- [ ] Spark Streaming - Stream Processing in Lakehouse - PySpark - https://synechron.udemy.com/course/spark-streaming-using-python/
-- [ ] https://synechron.udemy.com/course/how-to-become-an-outstanding-solution-architect/ (P-2)
+- 🌀 [ ] Mastering Data Modeling Fundamentals - https://synechron.udemy.com/course/mastering-data-modeling-fundamentals/
+- 🌀 [ ] Data Management Masterclass - The Complete Course - https://synechron.udemy.com/course/data-management-masterclass-the-complete-course/ 
+- 🌀 [X] EssentialSQL: Data Modeling & Relational Data Architecture - https://synechron.udemy.com/course/relational-database-design-sql/ 💤
+- 🌀 [ ] Databricks - Master Azure Databricks for Data Engineers - https://synechron.udemy.com/course/master-azure-databricks-for-data-engineers/ (P-1) ❗ ❗ ❗ 
+- 🌀 [ ] Microsoft Azure: Cloud Architecture Case Studies - https://synechron.udemy.com/course/microsoft-azure-cloud-architecture-case-studies/
+- 🌀 [ ] Data Warehouse Fundamentals for Beginners - https://synechron.udemy.com/course/data-warehouse-fundamentals-for-beginners/
+- 🌀 [ ] Spark Streaming - Stream Processing in Lakehouse - PySpark - https://synechron.udemy.com/course/spark-streaming-using-python/
+- 🌀 [ ] How To Become An Outstanding Solution Architect https://synechron.udemy.com/course/how-to-become-an-outstanding-solution-architect/ (P-2)❗ ❗ 
 
 
