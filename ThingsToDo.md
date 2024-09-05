@@ -32,5 +32,6 @@
 - [ ] Data Warehouse Fundamentals for Beginners - https://synechron.udemy.com/course/data-warehouse-fundamentals-for-beginners/
 - [ ] Spark Streaming - Stream Processing in Lakehouse - PySpark - https://synechron.udemy.com/course/spark-streaming-using-python/
 - [ ] How To Become An Outstanding Solution Architect https://synechron.udemy.com/course/how-to-become-an-outstanding-solution-architect/ (P-2)❗ ❗ 
+- [ ] AZ-104 Microsoft Azure Administrator course with SIMULATIONS : https://synechron.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/
 
 
