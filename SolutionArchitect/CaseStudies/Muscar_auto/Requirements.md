@@ -93,3 +93,13 @@ This layer basically holds the aggregation data that is specifically curated for
 - For this we can use the event hub service due to following reasons:
   1. The size of message is 1 MB (maximum size)
   2. It can process heavy load of the data (used for big data processing)
+
+
+### Telemetry Processing
+- This can be done by Azure Step Functions for the processing.
+
+### Operational Database and Storage
+
+- For this operational database we can use the cosmos db since the schema of the messages are not defined and requires the schema less storage, so we can store the data based on key and value in cosmos db
+
+- For the storage of the data, since this will be archived after certain amount of time, we have to use Azure data lake storage with storage type as archive.
