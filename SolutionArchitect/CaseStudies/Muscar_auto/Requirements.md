@@ -103,3 +103,45 @@ This layer basically holds the aggregation data that is specifically curated for
 - For this operational database we can use the cosmos db since the schema of the messages are not defined and requires the schema less storage, so we can store the data based on key and value in cosmos db
 
 - For the storage of the data, since this will be archived after certain amount of time, we have to use Azure data lake storage with storage type as archive.
+
+## Official Documentation
+
+Load Balancer
+
+https://docs.microsoft.com/en-us/azure/load-balancer/load-balancer-overview
+
+
+
+VM Scale Set
+
+https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview
+
+
+
+Event Hubs
+
+https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about
+
+
+
+App Services
+
+https://docs.microsoft.com/en-us/azure/app-service/overview
+
+
+
+Function Apps
+
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview
+
+
+
+Cosmos DB
+
+https://docs.microsoft.com/en-us/azure/cosmos-db/introduction
+
+
+
+Storage Account
+
+https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-overview
