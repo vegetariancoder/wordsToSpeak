@@ -31,10 +31,10 @@
 - [ ] Microsoft Azure: Cloud Architecture Case Studies - https://synechron.udemy.com/course/microsoft-azure-cloud-architecture-case-studies/
 - [ ] Data Warehouse Fundamentals for Beginners - https://synechron.udemy.com/course/data-warehouse-fundamentals-for-beginners/
 - [ ] Spark Streaming - Stream Processing in Lakehouse - PySpark - https://synechron.udemy.com/course/spark-streaming-using-python/
-- [ ] How To Become An Outstanding Solution Architect https://synechron.udemy.com/course/how-to-become-an-outstanding-solution-architect/ (P-1)❗ ❗ 
-- [ ] AZ-104 Microsoft Azure Administrator course with SIMULATIONS : https://synechron.udemy.com/course/az-104-microsoft-azure-administrator-course-with-simulations/
-- [ ] AZ-204 Developing Solutions for Microsoft Azure : https://synechron.udemy.com/course/70532-azure/ (P-2)
+- [ ] How To Become An Outstanding Solution Architect https://synechron.udemy.com/course/how-to-become-an-outstanding-solution-architect/ (P-1)❗ ❗
+- [X] AZ-204 Developing Solutions for Microsoft Azure : https://synechron.udemy.com/course/70532-azure/ (P-2)
 - [ ] The Complete Guide to Becoming a Software Architect : https://synechron.udemy.com/course/the-complete-guide-to-becoming-a-software-architect/
 - [ ] Software Architecture & Technology of Large-Scale Systems : https://synechron.udemy.com/course/developer-to-architect/
+- [ ] AZ-305 Exam Prep: Designing Azure Infrastructure Solutions : https://synechron.udemy.com/course/az-305-exam-prep-designing-microsoft-azure-infrastructure-solutions/
 
 
