@@ -34,7 +34,7 @@
 - [ ] Data Management Masterclass - The Complete Course - https://synechron.udemy.com/course/data-management-masterclass-the-complete-course/ 
 - [X] EssentialSQL: Data Modeling & Relational Data Architecture - https://synechron.udemy.com/course/relational-database-design-sql/
 - [X] AZ-204 Developing Solutions for Microsoft Azure : https://synechron.udemy.com/course/70532-azure/
-- [ ] The Complete Guide to Becoming a Software Architect : https://synechron.udemy.com/course/the-complete-guide-to-becoming-a-software-architect/ (In Progress)
+- [X] The Complete Guide to Becoming a Software Architect : https://synechron.udemy.com/course/the-complete-guide-to-becoming-a-software-architect/ (In Progress)
 - [ ] Software Architecture & Technology of Large-Scale Systems : https://synechron.udemy.com/course/developer-to-architect/
 - [ ] Software Architecture & Design of Modern Large Scale Systems : https://synechron.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/
 - [ ] How To Become An Outstanding Solution Architect https://synechron.udemy.com/course/how-to-become-an-outstanding-solution-architect/ (Next One)
