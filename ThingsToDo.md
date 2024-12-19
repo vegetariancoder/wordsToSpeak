@@ -34,16 +34,19 @@
 - [ ] Data Management Masterclass - The Complete Course - https://synechron.udemy.com/course/data-management-masterclass-the-complete-course/ 
 - [X] EssentialSQL: Data Modeling & Relational Data Architecture - https://synechron.udemy.com/course/relational-database-design-sql/
 - [X] AZ-204 Developing Solutions for Microsoft Azure : https://synechron.udemy.com/course/70532-azure/
-- [X] The Complete Guide to Becoming a Software Architect : https://synechron.udemy.com/course/the-complete-guide-to-becoming-a-software-architect/ (In Progress)
+- [X] The Complete Guide to Becoming a Software Architect : https://synechron.udemy.com/course/the-complete-guide-to-becoming-a-software-architect
 - [ ] Software Architecture & Technology of Large-Scale Systems : https://synechron.udemy.com/course/developer-to-architect/
-- [ ] Software Architecture & Design of Modern Large Scale Systems : https://synechron.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/
-- [ ] How To Become An Outstanding Solution Architect https://synechron.udemy.com/course/how-to-become-an-outstanding-solution-architect/ (Next One)
+- [ ] Software Architecture & Design of Modern Large Scale Systems : https://synechron.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/ (In Progress)
+- [ ] How To Become An Outstanding Solution Architect : https://synechron.udemy.com/course/how-to-become-an-outstanding-solution-architect/
+- [ ] Software Architecture & System Design - Practice Tests : https://synechron.udemy.com/course/software-architecture-system-design-practice-tests/?kw=Software+Architecture+%26+System+Design+-+Practice+Tests&src=sac (Next One)
 
 #### Data Engineer and Architect
 
-- [ ] Databricks - Master Azure Databricks for Data Engineers - https://synechron.udemy.com/course/master-azure-databricks-for-data-engineers/ 
+- [X] Databricks - Master Azure Databricks for Data Engineers - https://synechron.udemy.com/course/master-azure-databricks-for-data-engineers/ 
 - [ ] Data Warehouse Fundamentals for Beginners - https://synechron.udemy.com/course/data-warehouse-fundamentals-for-beginners/
 - [ ] Spark Streaming - Stream Processing in Lakehouse - PySpark - https://synechron.udemy.com/course/spark-streaming-using-python/
+- [ ] Snowflake – The Complete Masterclass : https://synechron.udemy.com/course/snowflake-masterclass/
+- [ ] Snowpark : Data engineering with Snowflake. https://synechron.udemy.com/course/snowpark-data-engineering-with-snowflake/?kw=snowpa&src=sac
 
 #### Cloud Architect
 
