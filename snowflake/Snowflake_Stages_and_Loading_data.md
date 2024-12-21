@@ -18,7 +18,7 @@
 
 #### Stages in Snowflake
 - A stage is a location in snowflake where we can store our data.
-- From this location we can upload and download the data to/from snowflake.
+- From this **location we can upload and download the data to/from snowflake**.
 
 ```mermaid
     flowchart TD
