@@ -1,4 +1,6 @@
+create database LEARNING;
 use database LEARNING;
+create schema external_stages;
 create database EXERCISE_DB;
 
 -- check for current account
@@ -7,6 +9,53 @@ select current_account();
 
 -- check for current region
 select current_region();
+
+
+-- create public stage using S3
+create or replace stage LEARNING.external_stages.aws_stage url = 's3://bucketsnowflakes3';
+
+-- see files in external stages
+LIST @aws_stage;
+
+-- describe a stage
+desc stage aws_stage;
+
+-- create table orders
+create OR replace table LEARNING.PUBLIC.orders (
+    ORDER_ID VARCHAR(30),
+    AMOUNT INT,
+    PROFIT INT,
+    QUANTITY INT,
+    CATEGORY VARCHAR(30),
+    SUBCATEGORY VARCHAR(30));
+
+-- drop table
+drop table LEARNING.PUBLIC.orders;
+
+
+
+select * from ORDERS;
+select count(*) from orders;
+
+-- insert data into orders table using copy table command
+
+copy into orders
+from @aws_stage
+file_format = (type = csv field_delimiter=',' skip_header=1)
+pattern='.*Order.*';
+
+-- create file format
+create or replace file format ff_csv type = 'CSV' field_delimiter = ',' skip_header = 1 field_optionally_enclosed_by ='"';
+
+show file formats ;
+
+-- copy into data using file format
+copy into orders
+from @aws_stage
+file_format = ff_csv
+pattern='.*Order.*';
+
+
 
 -- create file format
 create file format csv_credit_card_format type = 'CSV' FIELD_DELIMITER = ',' SKIP_HEADER = 1 FIELD_OPTIONALLY_ENCLOSED_BY='"';
