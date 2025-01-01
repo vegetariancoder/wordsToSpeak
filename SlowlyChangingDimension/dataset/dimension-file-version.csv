@@ -1,0 +1,5 @@
+id,name,department,is_active,version
+1,"Alice","HR",True, 1
+2,"Bob","Finance",True, 1
+3,"Charlie","IT",True, 1
+4,"Diana","Marketing",True, 1
