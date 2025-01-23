@@ -28,6 +28,10 @@
 
 ### Udemy
 
+#### Data Visualization
+
+- [ ] Zero to Hero in Tableau: Data Visualization using Tableau - https://synechron.udemy.com/course/tableau-data-visualization-starttech/
+
 #### Solution Architect
 
 - [ ] Mastering Data Modeling Fundamentals - https://synechron.udemy.com/course/mastering-data-modeling-fundamentals/
@@ -45,13 +49,15 @@
 - [X] Databricks - Master Azure Databricks for Data Engineers - https://synechron.udemy.com/course/master-azure-databricks-for-data-engineers/ 
 - [ ] Data Warehouse Fundamentals for Beginners - https://synechron.udemy.com/course/data-warehouse-fundamentals-for-beginners/
 - [ ] Spark Streaming - Stream Processing in Lakehouse - PySpark - https://synechron.udemy.com/course/spark-streaming-using-python/
-- [ ] Snowflake – The Complete Masterclass : https://synechron.udemy.com/course/snowflake-masterclass/
-- [ ] Snowpark : Data engineering with Snowflake. https://synechron.udemy.com/course/snowpark-data-engineering-with-snowflake/?kw=snowpa&src=sac
+- [X] Snowflake – The Complete Masterclass : https://synechron.udemy.com/course/snowflake-masterclass/
+- [X] Snowpark : Data engineering with Snowflake. https://synechron.udemy.com/course/snowpark-data-engineering-with-snowflake/?kw=snowpa&src=sac
+- [ ] dbt on Databricks : https://synechron.udemy.com/course/dbt-on-databricks/
 
 #### Cloud Architect
 
 - [ ] Microsoft Azure: Cloud Architecture Case Studies - https://synechron.udemy.com/course/microsoft-azure-cloud-architecture-case-studies/
 - [ ] AZ-305 Exam Prep: Designing Azure Infrastructure Solutions : https://synechron.udemy.com/course/az-305-exam-prep-designing-microsoft-azure-infrastructure-solutions/
+- [ ] Microsoft Fabric: The Ultimate Guide (with Projects) - https://synechron.udemy.com/course/microsoft-fabric-the-ultimate-guide/
 
  
 
