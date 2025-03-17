@@ -40,9 +40,9 @@
 - [X] AZ-204 Developing Solutions for Microsoft Azure : https://synechron.udemy.com/course/70532-azure/
 - [X] The Complete Guide to Becoming a Software Architect : https://synechron.udemy.com/course/the-complete-guide-to-becoming-a-software-architect
 - [ ] Software Architecture & Technology of Large-Scale Systems : https://synechron.udemy.com/course/developer-to-architect/
-- [ ] Software Architecture & Design of Modern Large Scale Systems : https://synechron.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/ (In Progress)
+- [X] Software Architecture & Design of Modern Large Scale Systems : https://synechron.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/ 
 - [ ] How To Become An Outstanding Solution Architect : https://synechron.udemy.com/course/how-to-become-an-outstanding-solution-architect/
-- [ ] Software Architecture & System Design - Practice Tests : https://synechron.udemy.com/course/software-architecture-system-design-practice-tests/?kw=Software+Architecture+%26+System+Design+-+Practice+Tests&src=sac (Next One)
+- [ ] Software Architecture & System Design - Practice Tests : https://synechron.udemy.com/course/software-architecture-system-design-practice-tests/?kw=Software+Architecture+%26+System+Design+-+Practice+Tests&src=sac (In Progress)
 
 #### Data Engineer and Architect
 
@@ -57,7 +57,7 @@
 
 - [ ] Microsoft Azure: Cloud Architecture Case Studies - https://synechron.udemy.com/course/microsoft-azure-cloud-architecture-case-studies/
 - [ ] AZ-305 Exam Prep: Designing Azure Infrastructure Solutions : https://synechron.udemy.com/course/az-305-exam-prep-designing-microsoft-azure-infrastructure-solutions/
-- [ ] Microsoft Fabric: The Ultimate Guide (with Projects) - https://synechron.udemy.com/course/microsoft-fabric-the-ultimate-guide/
+- [ ] Microsoft Fabric: The Ultimate Guide (with Projects) - https://synechron.udemy.com/course/microsoft-fabric-the-ultimate-guide/ (In Progress)
 
  
 
