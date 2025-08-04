@@ -1,6 +1,6 @@
 # 📊 Types of Statistics
 
-![Types of Statistics](/Users/sahilnagpal/Desktop/wordsToSpeak/Statistics/img/type-of-statistics.png)
+![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/Statistics/img/type-of-statistics.png?raw=true "superkey")
 
 
 Statistics is generally divided into **two main types**:
