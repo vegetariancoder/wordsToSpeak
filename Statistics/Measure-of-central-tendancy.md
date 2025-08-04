@@ -1,5 +1,7 @@
 # 📊 Statistics - Measures of Central Tendency
 
+![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/Statistics/img/measure-of-central-tendency.png?raw=true "superkey")
+
 In this session, we are going to continue our discussion on statistics, specifically focusing on **Measures of Central Tendency**.
 
 ## 🎯 Objectives
