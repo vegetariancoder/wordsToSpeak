@@ -1,5 +1,7 @@
 # Statistics: Measures of Dispersion
 
+![Alt text](https://github.com/vegetariancoder/wordsToSpeak/blob/main/Statistics/img/measure-of-dispersion.png?raw=true "superkey")
+
 This video explains the concept of measures of dispersion in statistics, focusing on variance and standard deviation.
 
 ## Main Points
